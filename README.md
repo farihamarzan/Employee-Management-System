@@ -1,4 +1,4 @@
-# Employee-Management-System
+# Employee Management System
 An application to create and manage employee information with email address
 
 - Developed an employee management application with email address
